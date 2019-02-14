@@ -1,0 +1,7 @@
+id=magisk-whatsapp-emojis
+name=WhatsApp Emojis
+version=v1.0
+versionCode=1
+author=RedSc0rpi0n
+description=Systemlessly replaces emoji font with WhatsApp Emojis.
+minMagisk=17000
