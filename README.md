@@ -21,5 +21,7 @@ Replaces the default emoji font (NotoColorEmoji.ttf, SamsungColorEmoji.ttf and H
 - [Magisk Manager](https://github.com/topjohnwu/MagiskManager/releases/)
 
 ## Changelog
+#### v1.1 (2019-02-22)
+- Updated redesigned emojis of latest WhatsApp (2.19.54-beta)
 #### v1.0 (2019-02-14)
 - Initial release
