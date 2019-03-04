@@ -19,6 +19,7 @@ Replaces the default emoji font (NotoColorEmoji.ttf, SamsungColorEmoji.ttf and H
 ## Links
 - [Magisk XDA Forum Thread](https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445)
 - [Magisk Manager](https://github.com/topjohnwu/MagiskManager/releases/)
+- Credits to [diegosergio](https://forum.xda-developers.com/member.php?u=9626761) for the first release on XDA Forum
 
 ## Changelog
 #### v1.1 (2019-02-22)
