@@ -22,6 +22,8 @@ Replaces the default emoji font (NotoColorEmoji.ttf, SamsungColorEmoji.ttf and H
 - Credits to [diegosergio](https://forum.xda-developers.com/member.php?u=9626761) for the first release on XDA Forum
 
 ## Changelog
+#### v1.4 (2019-04-04)
+- Updated redesigned emojis of offical WhatsApp ([2.19.62](https://emojipedia.org/whatsapp/2.19.62/changed/))
 #### v1.3 (2019-03-29)
 - Updated to Magisk Installer
 #### v1.2 (2019-03-14)
