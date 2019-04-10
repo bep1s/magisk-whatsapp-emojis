@@ -3,7 +3,7 @@
 Systemlessly replaces emoji font with WhatsApp Emojis on any device.
 
 ## Preview
-![Emoji Preview](https://imgur.com/nIYAogh.png)
+![Emoji Preview](https://imgur.com/GSMXoLV.png)
 
 ## Requirements
 - Rooted with [Magisk](https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445) 18.1+
